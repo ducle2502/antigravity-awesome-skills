@@ -518,6 +518,7 @@ We officially thank the following contributors for their help in making this rep
 - [vuth-dogo](https://github.com/vuth-dogo)
 - [Takura](https://github.com/taksrules)
 - [rafy](https://github.com/raeef1001)
+- [Đỗ Khắc Gia Khoa](https://github.com/dokhacgiakhoa)
 
 ## Star History
 
